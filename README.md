@@ -1,4 +1,24 @@
-## Hi there 👋
+<div align=center>
+  <!-- <img alt="Profil banner" src=""> -->
+  <h3>👋 Hello, I am OdysseyOfTheDragons</h3>
+</div>
+
+#### 🛠 — Skills
+
+![Skills](https://skillicons.dev/icons?i=c,html,css,ts,ocaml,py,vim,latex,linux&theme=dark)
+
+#### ⚙️ — Statistics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OdysseyOfTheDragons&theme=tokyo-night&radius=8&height=300" width="100%">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdysseyOfTheDragons&theme=tokyonight&include_all_commits=true&count_private=true&card_width=925&layout=compact" width="100%">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OdysseyOfTheDragons&show_icons=true&count_private=true&theme=tokyonight&card_width=450" width="49.5%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OdysseyOfTheDragons&theme=tokyonight&card_width=450" width="49.5%">
+</div>
 
 <!--
 **OdysseyOfTheDragons/OdysseyOfTheDragons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

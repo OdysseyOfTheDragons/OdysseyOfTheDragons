@@ -1,7 +1,7 @@
 <div align=center>
   <img alt="Profil banner" src="https://github.com/OdysseyOfTheDragons/OdysseyOfTheDragons/blob/38a1e0b3f61d13160826474141d1b87eec796a63/github-header-image.png">
   <h3>👋 Hello, I am OdysseyOfTheDragons</h3>
-  <h5>Student in Lycée Hoche, France. I mainly study mathematics, physics, and computer science.</h5>
+  <h5>Student in Télécom Paris, France. I mainly study mathematics, physics, and computer science.</h5>
 </div>
 
 #### 🛠 — Skills

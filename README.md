@@ -7,10 +7,6 @@
 
 ![Skills](https://skillicons.dev/icons?i=linux,vim,latex,bash,c,ocaml,py,php,html,css,ts,vite,react,solidjs,svelte&theme=dark)
 
-#### ⚙️ — Statistics
-
-[![Profile Trophy](https://github-profile-trophy.vercel.app/?username=OdysseyOfTheDragons)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### ⚡ — My projects
 
 - An [Android draughts game](https://play.google.com/store/apps/details?id=fr.alexandreconseil.game.jeudedames&pcampaignid=web_share)

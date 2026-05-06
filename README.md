@@ -10,5 +10,5 @@
 ### ⚡ — My projects
 
 - An [Android draughts game](https://play.google.com/store/apps/details?id=fr.alexandreconseil.game.jeudedames&pcampaignid=web_share)
-- A [server to compute the digits of pi](https://github.com/OdysseyOfTheDragons/pi-server) (preceding, [unmaintained version](https://github.com/OdysseyOfTheDragons/BBP-formula))
+- A [server to compute the digits of pi (work in progress)](https://github.com/OdysseyOfTheDragons/pi-server) (preceding, [unmaintained version](https://github.com/OdysseyOfTheDragons/BBP-formula))
 - An image compression tool for a research project at school
